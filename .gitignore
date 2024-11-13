@@ -128,3 +128,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Arquivos de ambiente
+backend/.env
+frontend/.env
+
+# Configurações do VSCode
+.vscode/
+
+# Arquivos de distribuição
+dist/
